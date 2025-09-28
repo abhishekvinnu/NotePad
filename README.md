@@ -1,4 +1,4 @@
-# React Notepad App 📝
+# React Notepad 📝
 
 A simple and responsive **Notepad application** built using **React.js** and **Tailwind CSS**.  
 This app allows you to create, view, edit, delete, copy, and share notes seamlessly.
